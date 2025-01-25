@@ -1,42 +1,26 @@
-# Next.Js Website Tutorial: Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+## Portfolio-Website
+Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
-
-This repository contains starter code for Portfolio website created using NextJs. <br />
-
-For Demo and Final Code checkout following link👇: <br />
-[Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion#code-links) <br />
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/Yw7yWHigGKI <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
-
-### Images of The Portfolio Website:
-
-![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
-![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
-![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
-![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
-![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
-![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
-![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
-![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
+<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
-### Resources Used in This Project
+## 📌 Tech Stack
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
-- Profile image in the home page created by using https://www.midjourney.com/ tool.
-- Profile image in the about page by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
-on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
-- Fonts from https://fonts.google.com/ <br />
-- Icons from https://iconify.design/ <br />
-- LightBulb Svg from https://lukaszadam.com/illustrations <br />
+### Extras : 
+Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
-### External Libraries used in this project:
-
-- [framer-motion](https://www.framer.com/motion/) <br />
-- [Tailwind css](https://tailwindcss.com/) <br />
+## 📌 Sneak Peek of Main Page 🙈 :
+![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
+![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
 
 
+<h2>📬 Contact</h2>
+
+Feel free to reach me through the below handles if you'd like to contact me.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
